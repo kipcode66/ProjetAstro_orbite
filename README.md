@@ -1,4 +1,4 @@
-# ProjetAstro_ortbite
+# ProjetAstro_orbite
 Projet de synthèse de programme. Mise en orbite d'une sonde autour d'une autre planète.
 
 Usage de Maple 2015.
